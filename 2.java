@@ -7,4 +7,3 @@ branch-merge-1; commit 5
 branch-merge-1; commit 6
 branch-merge-1; commit 7
 branch-merge-1; commit 8
-GIT-Practise-2/main
